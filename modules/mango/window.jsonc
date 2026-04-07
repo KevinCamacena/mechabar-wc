@@ -1,0 +1,11 @@
+{
+    "dwl/window": {
+        "format": "{}",
+        "rewrite": {
+            "": "Desktop",
+            "kitty": "Terminal",
+            "zsh": "Terminal",
+            "~": "Terminal"
+        }
+    }
+}
