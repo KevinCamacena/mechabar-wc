@@ -1,4 +1,4 @@
-// ~/.config/waybar/hyprland.jsonc
+// ~/.config/waybar/mango.jsonc
 {
     "include": [
         "~/.config/waybar/base.jsonc",
